@@ -21,6 +21,7 @@ Los componentes del repositorio utilizan distintas licencias:
 | `install-infernal-scripts.sh` | GPL-3.0-or-later  |
 | `install-casata-packages.sh`  | GPL-3.0-or-later  |
 
+> También puedes verlas en [`LICENSES`](LICENSES)
 Las licencias completas se encuentran en `LICENSE_GPL-v3` y `LICENSE_LGPL-v3`.
 
 ## Atribuciones
